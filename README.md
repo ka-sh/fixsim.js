@@ -9,4 +9,7 @@ Current options in the market are either manual or with limited functionality, o
 To provide Fintech startup with open source option where they can perform automated/manual tests, through which they will have feedback regarding how their system will perform during actual FIX certification process?
 
 
+#### Notes:
 We are currently supporting FIX 4.2 since it is the one that is mostly used.
+
+Please check resources for materials to learn about FIX.
